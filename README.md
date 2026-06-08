@@ -10,7 +10,6 @@ Dataset is given and it has 9568 samples , 4 features
 -> Output Layer : 1 neuron
 
 ## Results
-<<<<<<< HEAD
 -> R2_Score : 0.9317
 -> Optimizer : Adam
 ->Loss : MSE
